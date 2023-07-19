@@ -1,5 +1,5 @@
 # Portfolio app
 
-This is a Portfolio app developed during the course period.
+This is a Portfolio app developed using React during the course period.
 
 Thank You!
